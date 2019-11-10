@@ -1,8 +1,8 @@
 # Currículo
 Este repositório contêm o meu currículo.
 
-## Em construção.
+## Página em construção.
 
-##Mais informações
-http://bitlady.blogspot.com/p/contato.html
+## Mais informações
+http://bitlady.blogspot.com/p/perfil.html
 
